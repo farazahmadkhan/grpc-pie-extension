@@ -1,6 +1,6 @@
 {
   "name": "grpc/grpc",
-  "type": "library",
+  "type": "php-ext",
   "description": "gRPC library for PHP",
   "keywords": ["rpc"],
   "homepage": "https://grpc.io",
@@ -18,6 +18,12 @@
   "autoload": {
     "psr-4": {
       "Grpc\\": "src/php/lib/Grpc/"
+    }
+  },
+  "extra": {
+    "pie": {
+      "support-zts": true,
+      "support-nts": true
     }
   }
 }
