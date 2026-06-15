@@ -12,7 +12,7 @@ gRPC PHP installation instructions for Google Cloud Platform is in
 ### Prerequisites
 
 * `php`: version 7.1 or above (PHP 5.x support is deprecated from Sep 2020).
-* `pecl`
+* `pie`
 * `composer`
 * `phpunit` (optional)
 
@@ -20,19 +20,19 @@ gRPC PHP installation instructions for Google Cloud Platform is in
 ## Install the _grpc_ extension
 
 There are two ways to install the `grpc` extension.
-* Via `pecl`
+* Via `pie`
 * Build from source
 
-### Install from PECL
+### Install from `pie`
 
 ```sh
-$ [sudo] pecl install grpc
+$ [sudo] pie install grpc/grpc:dev-master
 ```
 
 or specific version
 
 ```sh
-$ [sudo] pecl install grpc-1.30.0
+$ [sudo] pie install grpc/grpc:1.30.0
 ```
 
 Please make sure your `gcc` version satisfies the minimum requirement as
@@ -41,8 +41,11 @@ specified [here](https://grpc.io/docs/languages/#official-support).
 
 ### Install on Windows
 
-You can download the pre-compiled `grpc.dll` extension from the PECL
-[website](https://pecl.php.net/package/grpc).
+PIE automatically downloads and installs precompiled `grpc.dll` binaries for your PHP version and architecture:
+
+```cmd
+> pie install grpc/grpc
+```
 
 ### Build from source
 

@@ -6,7 +6,7 @@
   "homepage": "https://grpc.io",
   "license": "Apache-2.0",
   "require": {
-    "php": ">=7.0.0"
+    "php": ">=7.1.0"
   },
   "require-dev": {
     "google/auth": "^v1.3.0"
@@ -23,7 +23,11 @@
   "extra": {
     "pie": {
       "support-zts": true,
-      "support-nts": true
+      "support-nts": true,
+      "download-url-method": [
+        "pre-packaged-binary",
+        "composer-default"
+      ]
     }
   }
 }
