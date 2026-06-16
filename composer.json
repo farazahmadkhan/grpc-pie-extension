@@ -1,10 +1,16 @@
 {
-  "name": "grpc/grpc",
+  "name": "php-ext/grpc",
   "type": "php-ext",
   "description": "gRPC library for PHP",
   "keywords": ["rpc"],
   "homepage": "https://grpc.io",
   "license": "Apache-2.0",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/farazahmadkhan/grpc-pie-extension"
+    }
+  ],
   "require": {
     "php": ">=7.1.0"
   },
