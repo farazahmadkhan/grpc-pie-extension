@@ -1,37 +1,32 @@
 {
-  "name": "php-ext/grpc",
+  "name": "grpc/grpc",
   "type": "php-ext",
-  "description": "gRPC library for PHP",
-  "keywords": ["rpc"],
-  "homepage": "https://grpc.io",
-  "license": "Apache-2.0",
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/farazahmadkhan/grpc-pie-extension"
-    }
+  "description": "gRPC C extension for PHP managed via PIE",
+  "keywords": [
+    "rpc"
   ],
-  "require": {
-    "php": ">=7.1.0"
+  "license": "Apache-2.0",
+  "provide": {
+    "ext-grpc": "self.version"
   },
   "require-dev": {
     "google/auth": "^v1.3.0"
   },
+  "php-ext": {
+    "extension-name": "grpc"
+  },
+  "require": {
+    "php": ">=8.1"
+  },
   "suggest": {
     "ext-protobuf": "For better performance, install the protobuf C extension.",
     "google/protobuf": "To get started using grpc quickly, install the native protobuf library."
-  },
-  "autoload": {
-    "psr-4": {
-      "Grpc\\": "src/php/lib/Grpc/"
-    }
   },
   "extra": {
     "pie": {
       "support-zts": true,
       "support-nts": true,
       "download-url-method": [
-        "pre-packaged-binary",
         "composer-default"
       ]
     }
