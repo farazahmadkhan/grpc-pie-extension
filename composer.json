@@ -1,5 +1,5 @@
 {
-  "name": "grpc/grpc-ext",
+  "name": "farazahmadk/grpc-extension",
   "type": "php-ext",
   "description": "gRPC C extension for PHP managed via PIE",
   "keywords": [
