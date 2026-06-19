@@ -6,7 +6,7 @@
         "version": "1.83.0",
         "type": "php-ext",
         "dist": {
-          "url": "https://raw.githubusercontent.com/farazahmadkhan/grpc-pie-extension/master/package.json",
+          "url": "https://github.com/farazahmadk/grpc-pie-extension/releases/download/v1.83.0/grpc-extension.tar.gz",
           "type": "tar"
         }
       }
