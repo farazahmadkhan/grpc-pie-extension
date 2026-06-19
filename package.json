@@ -1,12 +1,12 @@
 {
   "packages": {
     "farazahmadk/grpc_extension": {
-      "1.82.0": {
+      "1.83.0": {
         "name": "farazahmadk/grpc_extension",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "type": "php-ext",
         "dist": {
-          "url": "https://github.com/farazahmadk/grpc-pie-extension/releases/download/v1.81.0/grpc-extension.tar.gz",
+          "url": "https://raw.githubusercontent.com/farazahmadkhan/grpc-pie-extension/master/package.json",
           "type": "tar"
         }
       }
