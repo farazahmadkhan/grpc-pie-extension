@@ -5,6 +5,12 @@
         "name": "farazahmadk/grpc_extension",
         "version": "1.83.0",
         "type": "php-ext",
+        "provide": {
+          "ext-grpc": "self.version"
+        },
+        "php-ext": {
+          "extension-name": "grpc"
+        },
         "dist": {
           "url": "https://github.com/farazahmadkhan/grpc-pie-extension/releases/download/v1.83.0/grpc-extension.tar.gz",
           "type": "tar"
