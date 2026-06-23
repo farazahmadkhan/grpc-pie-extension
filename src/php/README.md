@@ -32,7 +32,7 @@ $ [sudo] pie install farazahmadk/grpc_ext:dev-master
 or specific version
 
 ```sh
-$ [sudo] pie install farazahmadk/grpc_ext:1.84.0
+$ [sudo] pie install farazahmadk/grpc_ext:1.85.0
 ```
 
 Please make sure your `gcc` version satisfies the minimum requirement as
@@ -44,7 +44,7 @@ specified [here](https://grpc.io/docs/languages/#official-support).
 On Windows, PIE will download the source and compile the extension. Note that precompiled `php_grpc.dll` binaries are not provided, so you will need a C/C++ compiler and the PHP SDK build tools configured on your system:
 
 ```cmd
-> pie install farazahmadk/grpc_ext:1.84.0
+> pie install farazahmadk/grpc_ext:1.85.0
 ```
 
 ### Build from source
