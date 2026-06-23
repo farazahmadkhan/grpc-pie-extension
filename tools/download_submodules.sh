@@ -27,8 +27,6 @@ if [ ! -f "$METADATA_FILE" ]; then
     exit 1
 fi
 
-echo "=== Checking C/C++ dependencies (submodules) ==="
-
 while read -r path url commit; do
     # Skip empty lines or comments
     if [ -z "$path" ] || [[ "$path" =~ ^# ]]; then
@@ -61,4 +59,3 @@ while read -r path url commit; do
     echo "Successfully configured $path!"
 done < "$METADATA_FILE"
 
-echo "=== All C/C++ dependencies configured successfully ==="
