@@ -1,9 +1,9 @@
 {
   "packages": {
     "farazahmadk/grpc_ext": {
-      "1.87.0": {
+      "1.89.0": {
         "name": "farazahmadk/grpc_ext",
-        "version": "1.87.0",
+        "version": "1.89.0",
         "type": "php-ext",
         "provide": {
           "ext-grpc": "self.version"
@@ -12,7 +12,7 @@
           "extension-name": "grpc"
         },
         "dist": {
-          "url": "https://github.com/farazahmadkhan/grpc-pie-extension/releases/download/v1.87.0/source.tar.gz",
+          "url": "https://github.com/farazahmadkhan/grpc-pie-extension/releases/download/v1.89.0/source.tar.gz",
           "type": "tar"
         }
       }
