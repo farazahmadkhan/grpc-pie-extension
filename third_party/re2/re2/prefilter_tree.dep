@@ -1,0 +1,11 @@
+third_party/re2/re2/prefilter_tree.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/prefilter_tree.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/prefilter_tree.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/util.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/prefilter.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/logging.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/sparse_array.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/pod_array.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/strutil.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/stringpiece.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/re2.h

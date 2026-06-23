@@ -1,0 +1,10 @@
+third_party/boringssl-with-bazel/crypto/mldsa/mldsa.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/crypto/mldsa/mldsa.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/mldsa.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/base.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/is_boringssl.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/opensslconf.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/target.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/crypto/mldsa/../fipsmodule/bcm_interface.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/aes.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/bcm_public.h

@@ -1,0 +1,12 @@
+third_party/abseil-cpp/absl/log/internal/conditions.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/log/internal/conditions.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/log/internal/conditions.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/attributes.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/config.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/options.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/policy_checks.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/log/internal/voidify.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/internal/cycleclock.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/internal/cycleclock_config.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/internal/unscaledcycleclock_config.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/internal/unscaledcycleclock.h

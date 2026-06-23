@@ -1,0 +1,16 @@
+third_party/boringssl-with-bazel/crypto/asn1/a_octet.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/crypto/asn1/a_octet.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/asn1.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/base.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/is_boringssl.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/opensslconf.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/target.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/bio.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/buffer.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/buf.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/err.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/ex_data.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/stack.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/thread.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/bn.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/include/openssl/mem.h

@@ -1,0 +1,4 @@
+third_party/re2/re2/stringpiece.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/stringpiece.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/stringpiece.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/util.h

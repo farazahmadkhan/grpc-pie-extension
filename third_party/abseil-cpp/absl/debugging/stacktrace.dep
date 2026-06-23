@@ -1,0 +1,16 @@
+third_party/abseil-cpp/absl/debugging/stacktrace.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/debugging/stacktrace.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/debugging/stacktrace.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/attributes.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/config.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/options.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/policy_checks.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/optimization.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/port.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/debugging/internal/stacktrace_config.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/debugging/internal/stacktrace_x86-inl.inc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/macros.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/debugging/internal/address_is_readable.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/debugging/internal/addresses.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/debugging/internal/vdso_support.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/debugging/internal/elf_mem_image.h

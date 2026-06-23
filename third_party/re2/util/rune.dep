@@ -1,0 +1,3 @@
+third_party/re2/util/rune.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/rune.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/utf.h

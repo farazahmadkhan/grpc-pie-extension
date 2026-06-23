@@ -1,0 +1,2 @@
+third_party/boringssl-with-bazel/crypto/fipsmodule/fips_shared_support.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/boringssl-with-bazel/crypto/fipsmodule/fips_shared_support.cc

@@ -1,0 +1,9 @@
+third_party/re2/re2/simplify.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/simplify.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/util.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/logging.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/utf.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/pod_array.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/regexp.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/stringpiece.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/walker-inl.h

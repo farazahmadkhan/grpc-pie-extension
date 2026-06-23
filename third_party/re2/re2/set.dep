@@ -1,0 +1,13 @@
+third_party/re2/re2/set.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/set.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/set.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/re2.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/stringpiece.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/util.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/logging.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/pod_array.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/prog.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/sparse_array.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/sparse_set.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/regexp.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/utf.h

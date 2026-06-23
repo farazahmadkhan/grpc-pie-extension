@@ -1,0 +1,12 @@
+third_party/re2/re2/prefilter.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/prefilter.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/prefilter.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/util.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/logging.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/strutil.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/stringpiece.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/util/utf.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/re2.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/unicode_casefold.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/walker-inl.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/re2/re2/regexp.h

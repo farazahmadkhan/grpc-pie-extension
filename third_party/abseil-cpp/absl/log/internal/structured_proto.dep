@@ -1,0 +1,24 @@
+third_party/abseil-cpp/absl/log/internal/structured_proto.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/log/internal/structured_proto.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/log/internal/structured_proto.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/config.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/options.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/policy_checks.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/log/internal/proto.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/attributes.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/casts.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/internal/identity.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/macros.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/optimization.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/port.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/meta/type_traits.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/strings/string_view.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/nullability.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/internal/nullability_deprecated.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/internal/throw_delegate.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/types/span.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/hash/internal/weakly_mixed_integer.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/types/internal/span.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/algorithm/algorithm.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/types/variant.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/utility/utility.h

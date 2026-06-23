@@ -1,0 +1,6 @@
+third_party/abseil-cpp/absl/debugging/internal/utf8_for_code_point.lo: \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/debugging/internal/utf8_for_code_point.cc \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/debugging/internal/utf8_for_code_point.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/config.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/options.h \
+ /usr/local/google/home/farazahmadk/grpc-pie-extension/third_party/abseil-cpp/absl/base/policy_checks.h
