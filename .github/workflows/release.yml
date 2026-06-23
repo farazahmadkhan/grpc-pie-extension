@@ -15,10 +15,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
+          fetch-depth: 0
 
       - name: Create Tarball with Submodules
         run: |
-          tar --exclude=".git" -czf grpc-extension.tar.gz *
+          tar --exclude-vcs -czf grpc-extension.tar.gz *
 
       - name: Release Asset
         uses: softprops/action-gh-release@v2
