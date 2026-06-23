@@ -1,4 +1,4 @@
-name: Package Extension
+name: Extension with Submodules
 
 on:
   push:
@@ -19,9 +19,9 @@ jobs:
 
       - name: Create Tarball with Submodules
         run: |
-          tar --exclude-vcs -czf grpc-extension.tar.gz *
+          tar --exclude-vcs -czf source.tar.gz *
 
       - name: Release Asset
         uses: softprops/action-gh-release@v2
         with:
-          files: grpc-extension.tar.gz
+          files: source.tar.gz
