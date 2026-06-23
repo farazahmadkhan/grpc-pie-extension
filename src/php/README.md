@@ -26,13 +26,13 @@ There are two ways to install the `grpc` extension.
 ### Install from `pie`
 
 ```sh
-$ [sudo] pie install grpc/grpc:dev-master
+$ [sudo] pie install farazahmadk/grpc_ext:dev-master
 ```
 
 or specific version
 
 ```sh
-$ [sudo] pie install grpc/grpc:1.30.0
+$ [sudo] pie install farazahmadk/grpc_ext:1.84.0
 ```
 
 Please make sure your `gcc` version satisfies the minimum requirement as
@@ -41,10 +41,10 @@ specified [here](https://grpc.io/docs/languages/#official-support).
 
 ### Install on Windows
 
-PIE automatically downloads and installs precompiled `grpc.dll` binaries for your PHP version and architecture:
+On Windows, PIE will download the source and compile the extension. Note that precompiled `php_grpc.dll` binaries are not provided, so you will need a C/C++ compiler and the PHP SDK build tools configured on your system:
 
 ```cmd
-> pie install grpc/grpc
+> pie install farazahmadk/grpc_ext:1.84.0
 ```
 
 ### Build from source
