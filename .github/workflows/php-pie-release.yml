@@ -19,9 +19,9 @@ jobs:
 
       - name: Create Tarball with Submodules
         run: |
-          tar --exclude-vcs --exclude=php_grpc-v1.97.0-src.tgz -czf php-pie-submodules.tar.gz *
+          tar --exclude-vcs --exclude="grpc-${{ github.ref_name }}.tgz" -czf "grpc-${{ github.ref_name }}.tgz" *
 
       - name: Release Asset
         uses: softprops/action-gh-release@v2
         with:
-          files: php_grpc-v1.97.0-src.tgz
+          files: grpc-${{ github.ref_name }}.tgz
