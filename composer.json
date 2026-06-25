@@ -13,7 +13,10 @@
     "google/auth": "^v1.3.0"
   },
   "php-ext": {
-    "extension-name": "grpc"
+    "extension-name": "grpc",
+    "download-url-method": [
+      "pre-packaged-source"
+    ]
   },
   "require": {
     "php": ">=8.1"
